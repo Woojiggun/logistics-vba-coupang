@@ -35,3 +35,5 @@ Although the logic was simple, it effectively reduced fatigue and human error wh
 ### Purpose
 The goal was to explore how even simple automation can lead to meaningful workflow improvements, especially in frontline operational settings like logistics.
 
+📌 Note: Full source code is not publicly available due to internal use cases.  
+Key logic or demo may be shared upon request.
